@@ -34,7 +34,6 @@ func main() {
 	m[3] = []int{1, 7}
 	m[4] = []int{2, 1}
 
-
 	for _, e := range m {
 		var x, y, current = 0, 0, 0
 
